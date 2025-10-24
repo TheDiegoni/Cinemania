@@ -31,6 +31,10 @@ p{
  color: #eeeeee;
 }
 
+td{
+ text-align: center;
+}
+
 a:link{
  color: #ffff00;
 }
