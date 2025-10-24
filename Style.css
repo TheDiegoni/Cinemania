@@ -11,12 +11,12 @@
 
 body{
  background-color: #111111;
- font-size: 30px;
+ font-size: 25px;
  color: #eeeeee;
 }
 
 h1{
- font-size: 60px;
+ font-size: 70px;
  font-family: Show;
  color: #ffff00;
 }
@@ -34,7 +34,7 @@ h3{
 }
 
 p{
- font-size: 30px;
+ font-size: 25px;
  color: #eeeeee;
 }
 
@@ -49,5 +49,6 @@ a:link{
 a:visited{
  color: #ffcccc;
 }
+
 
 
