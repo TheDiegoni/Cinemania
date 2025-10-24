@@ -6,34 +6,35 @@
 @font-face{
 	font-family: Hill;
 	src: url(Font/Holywood-gw76.ttf);
+
 }
 
 body{
  background-color: #111111;
- font-size: 25px;
+ font-size: 10px;
  color: #eeeeee;
 }
 
 h1{
- font-size: 100px;
+ font-size: 70px;
  font-family: Show;
  color: #ffff00;
 }
 
 h2{
- font-size: 50px;
+ font-size: 35px;
  font-family: Hill;
  color: #ffff00;
 }
 
 h3{
- font-size: 50px;
+ font-size: 35px;
  font-family: Show;
  color: #ff0000;
 }
 
 p{
- font-size: 25px;
+ font-size: 10px;
  color: #eeeeee;
 }
 
