@@ -19,12 +19,14 @@ h1{
  font-size: 80px;
  font-family: Show;
  color: #ffff00;
+ padding-bottom: -50px;
 }
 
 h2{
  font-size: 50px;
  font-family: Hill;
  color: #ffff00;
+ padding-bottom: -50px;
 }
 
 h3{
@@ -40,6 +42,10 @@ p{
 
 td{
  text-align: center;
+}
+
+IMG{
+ padding-top: 10px
 }
 
 a:link{
