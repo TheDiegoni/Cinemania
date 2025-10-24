@@ -10,7 +10,7 @@
 
 body{
  background-color: #111111;
- font-size: 100px;
+ font-size: 25px;
  color: #eeeeee;
 }
 
@@ -24,6 +24,16 @@ h2{
  font-size: 50px;
  font-family: Hill;
  color: #ffff00;
+}
+
+th{
+ font-size: 25px;
+ color: #eeeeee;
+}
+
+td{
+ font-size: 25px;
+ color: #eeeeee;
 }
 
 a:link{
