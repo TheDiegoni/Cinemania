@@ -19,6 +19,7 @@ h1{
  font-size: 80px;
  font-family: Show;
  color: #ffff00;
+ line-height: 2;
 }
 
 h2{
@@ -46,10 +47,6 @@ img{
  padding-top: 25px;
 }
 
-hr{
- line-height: .6;
-}
-
 a:link{
  color: #ffff00;
 }
@@ -57,6 +54,7 @@ a:link{
 a:visited{
  color: #ffcccc;
 }
+
 
 
 
